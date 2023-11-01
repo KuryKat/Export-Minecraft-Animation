@@ -22,7 +22,7 @@ To begin using this script, follow these simple steps:
 
 ### How it Works
 
-EMA (Easy Minecraft Animation) automates the process of exporting your Aseprite animation in a format that Minecraft can understand. It also creates the necessary metadata file, the `.mcmeta` file, which ensures that Minecraft plays each frame for the same duration as specified in your Aseprite animation.
+EMA automates the process of exporting your Aseprite animation in a format that Minecraft can understand. It also creates the necessary metadata file, the `.mcmeta` file, which ensures that Minecraft plays each frame for the same duration as specified in your Aseprite animation.
 
 ### Step-by-Step Usage
 
