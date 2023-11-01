@@ -1,0 +1,21 @@
+{
+    "name": "ema",
+    "displayName": "EMA (Export Minecraft Animation)",
+    "description": "Aseprite extension for creating animated Minecraft textures.",
+    "version": "0.0.1",
+    "author": {
+        "name": "KuryKat",
+        "email": "contact@kurykat.dev",
+        "url": "https://kurykat.dev/"
+    },
+    "contributors": [],
+    "publisher": "KuryKat",
+    "license": "GPLv3",
+    "contributes": {
+        "scripts": [
+            {
+                "path": "./ema.lua"
+            }
+        ]
+    }
+}
