@@ -2,7 +2,7 @@
     "name": "ema",
     "displayName": "EMA (Easy Minecraft Animation)",
     "description": "Aseprite extension for creating animated Minecraft textures.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "author": {
         "name": "KuryKat",
         "email": "contact@kurykat.dev",
