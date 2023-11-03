@@ -1,7 +1,7 @@
 # EMA (Easy Minecraft Animation)
 
 [![EMA Badge](https://img.shields.io/badge/EMA%20v1.0.0-7851a9.svg?logo=aseprite&logoColor=white)](https://github.com/KuryKat/Export-Minecraft-Animation/releases/latest)
-[![GitHub Release](https://img.shields.io/github/downloads/KuryKat/Export-Minecraft-Animation/total?logo=github&logoColor=white&labelColor=7851a9&color=7851a9&reset_cache=123)](https://github.com/KuryKat/Export-Minecraft-Animation/releases/latest)
+[![GitHub Release](https://img.shields.io/github/downloads/KuryKat/Export-Minecraft-Animation/total?logo=github&logoColor=white&labelColor=7851a9&color=7851a9&reset_cache=1234)](https://github.com/KuryKat/Export-Minecraft-Animation/releases/latest)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/KuryKat?logo=github&logoColor=white&labelColor=7851a9&color=7851a9)](https://github.com/sponsors/KuryKat)
 [![Repository License](https://img.shields.io/github/license/KuryKat/Export-Minecraft-Animation?logo=gnu&logoColor=white&labelColor=7851a9&color=7851a9)](./LICENSE)
 
